@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Branch Courses</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Branch Courses</h1>
+  </header>
+
+  <section class="course-container">
+    <div class="course-card">
+      <h2>Computer Science</h2>
+      <ul>
+        <li>Data Structures</li>
+        <li>Algorithms</li>
+        <li>Operating Systems</li>
+        <li>Database Management</li>
+      </ul>
+    </div>
+
+    <div class="course-card">
+      <h2>Electronics</h2>
+      <ul>
+        <li>Digital Electronics</li>
+        <li>Signal Processing</li>
+        <li>Microprocessors</li>
+        <li>VLSI Design</li>
+      </ul>
+    </div>
+
+    <div class="course-card">
+      <h2>Mechanical</h2>
+      <ul>
+        <li>Thermodynamics</li>
+        <li>Fluid Mechanics</li>
+        <li>Machine Design</li>
+        <li>CAD/CAM</li>
+      </ul>
+    </div>
+
+    <div class="course-card">
+      <h2>Civil</h2>
+      <ul>
+        <li>Structural Analysis</li>
+        <li>Concrete Technology</li>
+        <li>Surveying</li>
+        <li>Geotechnical Engineering</li>
+      </ul>
+    </div>
+  </section>
+</body>
+</html>
